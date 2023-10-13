@@ -1,7 +1,4 @@
 ### Hi Everyone!!!👋
-
-
-<!DOCTYPE html>
 <html>
 <body>
     <h1>About Me</h1>
