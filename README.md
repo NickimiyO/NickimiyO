@@ -1,7 +1,19 @@
 ### Hi Everyone!!!👋
 
 
-<img width="960" alt="image" src="https://github.com/NickimiyO/NickimiyO/assets/121602501/d9dcc102-c711-4a0c-a028-0800d5244d75">
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About Me</title>
+</head>
+<body>
+    <h1>About Me</h1>
+    <p>
+        Hi, I'm <strong>Nik Amirul Ariff bin Amran</strong>. I am currently a student at <em>Universiti Teknologi Malaysia</em>, where I'm pursuing a bachelor's degree in <em>Computer Science</em> with a focus on <em>Data Engineering</em>. I'm currently in my <em>3rd year</em> of study and am passionate about coding. Being a coding enthusiast, I enjoy exploring the world of technology and software development.
+    </p>
+</body>
+</html>
+
 
   
 
