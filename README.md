@@ -1,10 +1,7 @@
 ### Hi Everyone!!!👋
 
 
+<img width="960" alt="image" src="https://github.com/NickimiyO/NickimiyO/assets/121602501/d9dcc102-c711-4a0c-a028-0800d5244d75">
 
-- 🌱 I’m currently learning in Universiti Teknologi Malaysia
-- 💬 Ask me about programming... I love them <3
-- 📫 How to reach me: +6011-59202343
-- 😄 Pronouns: he/him/love
   
 
